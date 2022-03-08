@@ -1,0 +1,30 @@
+_repo: Around-the-Circle-One-Thousand-Miles-Through-the-Rocky-Mountains_67539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-03-02'
+identifiers:
+  gutenberg: '67539'
+language: en
+pgterms:marc904: https://archive.org/details/aroundcircle00denv/
+pgterms:marc905: 20220207172836author
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Tom Cosmas produced from materials made freely available at The Internet
+  Archive and placed in the Public Domain
+publication_note: United States :Knight, Leonard & Co.,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Around the Circle: One Thousand Miles Through the Rocky Mountains'
+url: http://www.gutenberg.org/ebooks/67539
